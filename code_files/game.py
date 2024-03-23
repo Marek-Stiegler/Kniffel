@@ -1,5 +1,5 @@
 from dices import Dices
-from paper import Paper, Paper_top,             Paper_bottom
+from paper import Paper, Paper_top, Paper_bottom
 
 class Game:
     def __init__(self):
